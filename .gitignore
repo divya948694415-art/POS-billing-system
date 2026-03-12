@@ -1,0 +1,5 @@
+
+node_modules
+.env
+Pos frontend/node_modules
+smart-pos/node_modules
